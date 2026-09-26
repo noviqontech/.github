@@ -15,7 +15,11 @@ NOVIQON TECHNOLOGIES is an incorporated software development enterprise focused 
 
 ---
 
-### 🛠️ Core Engineering Focus
-- Native Android Software Development (Modern Architecture, MVVM/MVI, Jetpack Compose)
-- Media Streaming, Cloud APIs, and Scalable Mobile SDKs
-- Secure CI/CD Automation & Play Store Distribution
+### 🛠️ Core Engineering Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
